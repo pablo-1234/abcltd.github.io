@@ -1,1 +1,1 @@
-this is just a sampke website
+this is just a sample website
